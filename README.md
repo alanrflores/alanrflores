@@ -9,7 +9,7 @@
 </em></p>
 
 [![Linkedin: alan flores](https://img.shields.io/badge/-alanflores-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-flores-184406171/)](https://www.linkedin.com/in/alan-flores-184406171/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/alanflores?label=follow&style=social)](https://github.com/alanrflores)
+
 
 
  <img src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif" width="50"> Un poco mas sobre mi...  
