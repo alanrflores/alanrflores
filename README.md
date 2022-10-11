@@ -1,8 +1,8 @@
   👋
 
-<!--
-**alanrflores/alanrflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**alanrflores/alanrflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ReactToolKit_Banner03-1200x500](https://user-images.githubusercontent.com/51032817/195218611-312fdf70-a6df-4cd9-bb0b-3617b20c4887.png)
 
 <h2> Hola, mi nombre es Alan! <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
@@ -13,7 +13,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/alanflores?label=follow&style=social)](https://github.com/alanrflores)
 
 
-### <img src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif" width="40"> Un poco mas sobre mi...  
+ <img src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif" width="40"> Un poco mas sobre mi...  
 
 ```javascript
 const Alan = {
@@ -28,6 +28,6 @@ const Alan = {
 
 <img src="https://media1.giphy.com/media/4rdh8gpiqiDm0/giphy.gif" width="50"> <em> <b>Gracias por llegar hasta aca!</b> :)</em>
 
----
+
 
 ⭐️ From [@alanrflores](https://github.com/alanrflores)
