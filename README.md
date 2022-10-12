@@ -15,8 +15,8 @@
 ```javascript
 const Alan = {
   código: [Javascript, Typescript, HTML, CSS],
-  instrumentos: [React, Redux, Node, Redux-toolkit, Firebase, Express],
-  servicios: [PostgreSQL, SQL, Power BI, sqlite],
+  instrumentos: [React, Redux, Node, Redux-Toolkit, Firebase, Express],
+  servicios: [PostgreSQL, SQL, Power BI, Sqlite],
   arquitectura: ["microservicios"],
   
  desafío: "Ahora estoy enfocado en hacer una app con react y typescript"
