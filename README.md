@@ -30,4 +30,4 @@ const Alan = {
 
 
 ⭐️ From [@alanrflores](https://github.com/alanrflores)
-  [mail] (alan.flores640@gmail.com)
+  [email](alan.flores640@gmail.com)
