@@ -15,7 +15,7 @@
 ```javascript
 const Alan = {
   código: [Javascript, Typescript],
-  instrumentos: [Node JS, Express, React, React native, Redux, Firebase, Apollo server],
+  instrumentos: [NodeJS, Express, React, ReactNative, Redux, Firebase, ApolloServer],
   Base de Datos: [PostgreSQL, MongoDB, SQL, MySql, GraphQL],
   arquitectura: ["microservicios"],
   
