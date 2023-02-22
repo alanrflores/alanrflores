@@ -14,12 +14,12 @@
 
 ```javascript
 const Alan = {
-  código: [Javascript, Typescript, HTML, CSS],
-  instrumentos: [React, Redux, Node, Redux-Toolkit, Firebase, Express],
-  servicios: [PostgreSQL, SQL, Power BI, Sqlite],
+  código: [Javascript, Typescript],
+  instrumentos: [Node JS, Express, React, React native, Redux, Firebase, Apollo server],
+  Base de Datos: [PostgreSQL, MongoDB, SQL, MySql, GraphQL],
   arquitectura: ["microservicios"],
   
- desafío: "Ahora estoy enfocado en hacer una app con react y typescript"
+ desafío: "Brindar, adquirir, compartir y desarrollar mis experiencias para un mejor desempeño profesional, obtener un empleo en el que mi pensamiento innovador se pueda usar en conjunto para ayudar a la organización a mejorar y acrecentar su visión y misión."
 }
 ```
 
