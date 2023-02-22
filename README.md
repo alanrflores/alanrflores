@@ -31,7 +31,7 @@ const Alan = {
 
 <h3> 🤝🏻 Conectate conmigo </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alan-flores-184406171/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@alanflores-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/floresalan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@alanflores-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:alan.flores640@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alan.flores640@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
